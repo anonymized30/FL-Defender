@@ -3,7 +3,7 @@ This repository contains PyTorch implementation of the paper: FL-Defender: Comba
 
 ## Paper 
 
-[FL-Defender: Combating Targeted Attacks in Federated Learning]()
+[FL-Defender: Combating Targeted Attacks in Federated Learning](https://arxiv.org/abs/2207.00872)
 
 ## Content
 The repository contains one jupyter notebook for each benchmark which can be used to re-produce the experiments reported in the paper for that benchmark. The notebooks contain clear instructions on how to run the experiments. 
