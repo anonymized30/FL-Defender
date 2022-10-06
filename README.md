@@ -48,6 +48,12 @@ After downloading [IMDB](https://ai.stanford.edu/~amaas/data/sentiment/), please
 ## Citation 
 
 
+@article{jebreel2022fl,
+  title={FL-Defender: Combating Targeted Attacks in Federated Learning},
+  author={Jebreel, Najeeb and Domingo-Ferrer, Josep},
+  journal={arXiv preprint arXiv:2207.00872},
+  year={2022}
+}
 
 ## Funding
 
